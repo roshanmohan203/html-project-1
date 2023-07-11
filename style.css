@@ -1,0 +1,167 @@
+*{
+    margin:0%;
+    padding:0% ;
+}
+.head{
+    background-color: rgb(189, 231, 237);
+    display: flex;
+}
+.logo img{
+    margin-left: 195px;;
+   width:380px; 
+   height:150px;
+}
+.btn{ 
+    margin-left:310px ;
+    height: 60px;
+    width:140px;
+    padding: 10px;
+    border-color:white ;
+
+ background-color:#613d84;
+}
+.btn:hover{
+    color:white;
+    border-bottom: 2px solid darkblue;
+    cursor: pointer;
+}
+.btn1{ 
+
+    margin-left:70px ;
+    height: 60px;
+    width:140px;
+    padding: 10px;
+    border-color:white ;
+ background-color:#e7732c;;
+}
+.btn1:hover{
+    color:white;
+    border-bottom: 2px solid darkblue;
+    cursor: pointer;
+}
+.btn3{margin-left:873px ;
+    height: 60px;
+    width:140px;
+    padding: 10px;
+    border-color:white ;
+ background-color:#e7732c;;
+
+}
+.lang{
+    margin-top:60px ;
+    margin: 60px;
+    width:90px;
+}
+.lang select{
+    width:148px ;
+    height: 30px;
+}
+nav ul{
+background-color: #613d84;
+display: flex;
+justify-content: center;
+justify-content: space-around;
+padding: 12px;
+padding-top:42px ;
+color: white;
+list-style: none;
+height: 40px;
+}
+.background{
+    width:100%;
+    height: 480px;
+    background-image :url(https://c4.wallpaperflare.com/wallpaper/869/666/513/animals-seals-wallpaper-preview.jpg);
+    background-repeat:no-repeat ;
+    background-size:cover ;
+    background-position: center;
+}
+.inline{
+    padding-top:40px ;
+    padding-left: 20px;
+
+}
+.belt{
+    background-color: #613d84;
+}
+.belt h1,h4{
+    color: white;
+    text-align: center;
+    padding-top:30px ;
+}
+.belt h4{
+    font-size: small;
+    padding-bottom: 50px;
+}
+.belt form{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 30px;
+    
+}
+.input{
+    width: 300px;
+    height: 25px;
+    background-color: #600fb1;
+    padding: 10px;
+    color:white ;
+    font-size:larger;
+    margin-left: 20px;
+}
+.input .placeholder{
+    color: white;
+}
+.put {
+    width: 280px;
+    height: 48px;
+    background-color: #e7732c;
+    margin-left: 20px;
+}
+.strap{
+    background-color: #e2eff4;
+    height: 400px;
+color: white;
+margin-bottom: -130px;
+padding-left: 30px;
+}
+.strap h1{
+    padding-top: 90px;
+    margin-right: 287px;
+}
+.coll{
+    padding-right: 20px;
+}
+.strap button{
+    /* margin-right: 600px; */
+}
+.main{
+    color: #e7732c ;
+    background-color: #c4e5f2;
+    padding-left: 20px
+    
+}
+.tile{
+    margin-bottom: 20px;
+
+}
+.floor{
+    background-color:  #c7e1eb;
+    display: flex;
+    padding-left: 30px;
+
+}
+.floor h2{
+margin-right: 200px;
+}
+.footer{
+    text-decoration: none;
+    background-color: #469dc0;
+    display: flex;
+}
+   .footer .list{
+    margin-left: 90px;
+    margin-bottom: 20px;
+
+   } 
+      
+
+
